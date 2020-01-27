@@ -58,3 +58,4 @@ int main()
     cout << "Tiempo "<< duration.count()<< " microseconds" << endl;
     return 0;
 }
+//Checked
